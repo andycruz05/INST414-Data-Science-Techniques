@@ -17,7 +17,5 @@ Your post should include the following:
 
 For simplicity, scikit-learn has implementations for several clustering approaches we can use:
 
-K-Means (Links to an external site.), with Euclidean distance, 
-Agglomerative Cluster (Links to an external site.), with Euclidean or cosine or a some pre-computed (e.g., Jaccard) distance, and
-Other general clustering (Links to an external site.) approaches
+K-Means, with Euclidean distance, Agglomerative Cluster, with Euclidean or cosine or a some pre-computed (e.g., Jaccard) distance, and Other general clustering approaches. 
 Tag your story as "inst414fa26m03" - Articles with this tag will automatically be added to the appropriate assignment tab after I accept on the class publication.
